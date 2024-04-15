@@ -1,6 +1,6 @@
 {
-  "name": "nexai-ai-support-chat-bubble",
-  "version": "0.0.83",
+  "name": "nexai.js",
+  "version": "0.0.1",
   "type": "module",
   "main": "./lib/esm/index.js",
   "module": "./lib/esm/index.js",

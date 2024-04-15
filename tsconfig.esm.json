@@ -38,6 +38,7 @@
   "include": [
     "src",
     "index.ts",
+    "chat-bubble.ts",
     "twind.config.ts",
   ]
 }
